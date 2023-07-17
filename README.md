@@ -18,4 +18,4 @@
 
 ### Resutados
 
-![Alt text](./kali_shell.png "Kali Shell")
+![Alt text](./shell.png "Kali Shell")
