@@ -1,4 +1,4 @@
-# Phishing para captura de senhas do Facebook
+# Phishing para Captura de Senhas do Facebook
 
 ### Ferramentas
 
@@ -18,4 +18,4 @@
 
 ### Resutados
 
-![Alt text](./passwd.png "Kali Shell")
+![Alt text](./kali_shell.png "Kali Shell")
